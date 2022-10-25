@@ -1,0 +1,10 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B8:26:D4:40:CF:09, 2022-10-25 15:14:35, 2022-10-25 15:17:18,  1, 130, WPA2, CCMP TKIP, PSK, -56,     1226,      297,   0.  0.  0.  0,  10, Rashiddaud, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+CA:5B:54:EC:9B:60, 2022-10-25 15:14:41, 2022-10-25 15:17:18, -80,       30, B8:26:D4:40:CF:09,
+B6:18:88:CE:BA:81, 2022-10-25 15:14:35, 2022-10-25 15:17:18, -86,      923, B8:26:D4:40:CF:09,
+42:B1:14:55:D8:60, 2022-10-25 15:14:35, 2022-10-25 15:17:18, -86,     1454, B8:26:D4:40:CF:09,
+BE:60:13:BD:F9:FD, 2022-10-25 15:14:35, 2022-10-25 15:17:18, -72,     3489, B8:26:D4:40:CF:09,
+
